@@ -32,5 +32,4 @@ The following datasets are provided :
 - ROC Auc:    0.9042868864519347 
 - PR Auc:     0.9850967709983607 
 
-!['Screenshot'](sample_output.png)
 
